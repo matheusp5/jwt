@@ -15,7 +15,7 @@ O mais recomendado é utilizar o JWT como uma maneira de autenticação, ou seja
 Em um sistema de login, o token é guardado em cookie, para verificar se o usuário está cadastrado, posso verificar se existe o cookie. E se eu precisar do token do usuário e pegar alguma informação dele? Fácil, pego o cookie e decodifico o Token
 
 <h1>Instalação</h1>
-Para instalar é um tanto quando fácil para quem já teve contato com Composer, caso contrario, irei ensinar aqui mesmo. Para começar, precisamos do <a href="https://php.net/">PHP</a> e do <a href="https://getcomposer.org/">Composer</a>, após a instalação dos componentes, baixe o pacotes do JWT <a href="https://packagist.org/packages/firebase/php-jwt">conferindo aqui</a><br>
+Para instalar é um tanto quanto fácil para quem já teve contato com Composer, caso contrario, irei ensinar aqui mesmo. Para começar, precisamos do <a href="https://php.net/">PHP</a> e do <a href="https://getcomposer.org/">Composer</a>, após a instalação dos componentes, baixe o pacotes do JWT <a href="https://packagist.org/packages/firebase/php-jwt">conferindo aqui</a><br>
 <br>
 
 ```composer
